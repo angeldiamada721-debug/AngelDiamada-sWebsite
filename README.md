@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8"> 
-    <title>ANGEL</title>
+   
 </head>
 <body background="heyy.gif"> 
     <h1 style="font-size: 40px;"> ABOUT ME ˙⋆✮</h1>
